@@ -1,1 +1,1 @@
-BETA
+BETA - profile refresh may fail due mihomo outage. 
