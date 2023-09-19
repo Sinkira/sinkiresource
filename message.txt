@@ -1,1 +1,1 @@
-changing a ton of code to decrease refresh cooldown to 1 min. if stuff doesn't work correctly please report on discord.
+Refreshes can now be done every single minute, if it shows more on timer just reload the page coz it's your browser's chache. Please report any bugs or inconveniences u may be having. 
