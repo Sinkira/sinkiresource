@@ -1,1 +1,1 @@
-BETA<br>test
+changing a ton of code to decrease refresh cooldown to 1 min. if u see weird stuff or get error pls report on discord.
