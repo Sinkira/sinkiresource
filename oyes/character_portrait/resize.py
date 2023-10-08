@@ -9,6 +9,6 @@ for file in files:
     # Get the dimensions of the image
     width, height = img.size
     # Resize the image to one-fifth of its original size
-    img = img.resize((width//5, height//5))
+    img = img.resize((width//2, height//2))
     # Overwrite the original image with the resized image
     img.save(file)
