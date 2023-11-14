@@ -1,1 +1,1 @@
-OPEN BETA
+OPEN BETA, refresh wont work when game server on maintenance 
