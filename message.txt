@@ -1,1 +1,1 @@
-OPEN BETA - temporarily refreshing again works only after 10 minutes, not 1. sorry about it.
+WIP - temporarily refreshing again works only after 10 minutes, not 1. sorry about it.
