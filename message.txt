@@ -1,1 +1,1 @@
-WIP - temporarily refreshing again works only after 10 minutes (even if site shows 1 min), sorry 
+WIP 
