@@ -1,1 +1,1 @@
-refresh button will work once enka.network is done with maintenance
+Refresh button works, CN and Bilibili not yet
