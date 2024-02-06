@@ -1,1 +1,1 @@
-Refresh button works, CN and Bilibili not yet
+Refresh works for most servers! CN and Bilibili SoonTM
