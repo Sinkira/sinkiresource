@@ -1,1 +1,1 @@
-refresh button won't work during game server maintenance
+refresh button won't work while enka.network on maintenance
