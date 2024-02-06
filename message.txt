@@ -1,1 +1,1 @@
-refresh button / adding new profiles will work once enka.network is done with maintenance
+refresh button will work once enka.network is done with maintenance
