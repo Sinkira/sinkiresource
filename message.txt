@@ -1,1 +1,1 @@
-refresh button won't work for a bit coz enka.network is on maintenance
+refresh button will work once enka.network is done with maintenance
