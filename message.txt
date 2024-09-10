@@ -1,1 +1,2 @@
-bh lb up
+Refresh will work again once enka.network finishes maintenance
+
