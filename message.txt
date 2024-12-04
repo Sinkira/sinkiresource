@@ -1,1 +1,1 @@
-site should be working now. 
+refresh won't work during enka.network maintenance 
