@@ -1,1 +1,2 @@
 BIG HERTA up, Fugue on Boothill up, Rappa up, JL update soon
+Known Bug: Therta E2 is merged with E0
