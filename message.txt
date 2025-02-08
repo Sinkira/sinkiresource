@@ -1,2 +1,2 @@
-BIG HERTA up, Fugue on Boothill up, Rappa up, JL update soon
-Known Bug: Therta E2 is merged with E0, fix tmmr
+BIG HERTA up, Fugue on Boothill up, Rappa up, JL update soon || Known Bug: Therta E2 is merged with E0, fix tmmr, and make sure to refresh profile for accurate score
+
